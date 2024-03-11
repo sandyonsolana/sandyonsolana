@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Mar 2024 16:25:18 at https://sandyonsolana.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sandyonsolana.online/ -O1 "C:\WebRips\SandyOnSol" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:25:24	Error: 	"Not Found" (404) at link https://sandyonsolana.online/t (from https://sandyonsolana.online/)
+16:25:24	Error: 	"Not Found" (404) at link https://sandyonsolana.online/"https://www.dextools.io/widget-chart/en/bnb/pe-light/0x515e94dc736b9d8b7d28ecf1cece0aba3d75da97?theme=light&chartType=2&chartResolution=30&drawingToolbars=false\%22></iframe>%22],%22desktop%22:[0,{%22top%22:[0,223],%22left%22:[0,103],%22width%22:[0,1079],%22height%22:[0,708]}],%22settings%22:[0,{%22styles%22:[0,{%22height%22:[0,704]}]}]}],%22zAMrVI%22:[0,{%22type%22:[0,%22GridTextBox%22],%22mobile%22:[0,{%22top%22:[0,35],%22left%22:[0,0],%22width%22:[0,328],%22height%22:[0,44]}],%22content%22:[0,%22<h3 (from https://sandyonsolana.online/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 15 links scanned, 12 files written (4084393 bytes overall) [3845018 bytes received at 640836 bytes/sec], 311159 bytes transferred using HTTP compression in 5 files, ratio 15%, 3.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
